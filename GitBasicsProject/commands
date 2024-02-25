@@ -1,0 +1,9 @@
+mkdir GitBasicsProject 
+git init
+open folder, mkdir config src
+touch config/app.config 
+touch src/settings.json
+touch gitignore
+Ignore config folder, settings.json file and  files with .log extension
+
+
